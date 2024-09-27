@@ -11,7 +11,7 @@ If you’re on an Intel Mac and you really want VR (and I mean really want it), 
 ### What headsets are supported?
 
 - **Meta Quest 2 / Quest 3**
-- ** Pico Neo 3 / 4** (not of main focus)
+- **Pico Neo 3 / 4** (not of main focus)
 - Other standalone headsets that support wireless connections should also work, but the above are the main focus as of right now.
 
 ### Can I use desktop VR headsets (e.g., Valve Index, HTC Vive)?
